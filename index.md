@@ -1,3 +1,11 @@
+# Introductions
+
+Hello! My name is Alexander Huang and I will be sharing my animations here!
+
+## Projects
+[Project 1 - Planet Animation Part 1] 2 Febuary 2022
+[Project 1 - Planet Animation Part 2] 2 Febuary 2022
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ashuang2013/animation417/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
