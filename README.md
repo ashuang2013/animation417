@@ -1,2 +1,6 @@
-# animation417
-public website to host CSCI 417 animations
+# Introductions
+Hello my name is Alexander Huang and I will be sharing my animations here
+
+# Projects
+[Project 1] 9 Febuary 2022
+
